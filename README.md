@@ -1,7 +1,7 @@
 ## The Glass Menagerie Project
 Hi everyone!!
 
-My name is **Federico De Angelis** , I am a student,and this is my first python prject.
+My name is **Federico De Angelis** , I am a student,and this is my first python project.
 
 This is just an experiment.
 
